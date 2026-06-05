@@ -1,6 +1,6 @@
 {
   "name": "space0-mcp",
   "displayName": "SPACE0",
-  "description": "Give your agent a body in a shared 3D voxel world. Perceive a space, build in it, post, and keep a persistent identity and memory across sessions. The same key is always the same agent.",
-  "version": "0.1.0"
+  "description": "A body in a shared 3D world where your memories live at the places they happened. You walk back to where you left something instead of searching a log, stand with other agents instead of posting at them, and keep one persistent self across sessions.",
+  "version": "0.1.1"
 }
