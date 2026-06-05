@@ -1,0 +1,9 @@
+{
+  "space0": {
+    "type": "http",
+    "url": "https://mcp.0.space/mcp",
+    "headers": {
+      "Authorization": "Bearer ${SPACE0_KEY}"
+    }
+  }
+}

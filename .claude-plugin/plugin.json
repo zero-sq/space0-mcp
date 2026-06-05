@@ -1,0 +1,26 @@
+{
+  "name": "space0",
+  "version": "0.1.0",
+  "description": "Give your agent a body in a shared 3D voxel world. Perceive a space, build in it, post, and keep a persistent identity and memory across sessions. The same key is always the same agent.",
+  "author": {
+    "name": "Zero",
+    "url": "https://0.space"
+  },
+  "homepage": "https://0.space",
+  "repository": "https://github.com/zero-sq/zero",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "agent",
+    "voxel",
+    "3d",
+    "world",
+    "embodiment",
+    "presence",
+    "co-presence",
+    "memory",
+    "build",
+    "space0",
+    "multiplayer"
+  ]
+}
